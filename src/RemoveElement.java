@@ -40,10 +40,6 @@
  * It does not matter what you leave beyond the returned k (hence they are underscores).
  */
 public class RemoveElement {
-    public static void main(String[] args) {
-        RemoveElement removeElement = new RemoveElement();
-
-    }
 
     public int removeElement(int[] nums, int val) {
         // Switch with the last element
