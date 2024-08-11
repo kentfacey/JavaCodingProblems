@@ -1,3 +1,5 @@
+package arrayOrString;
+
 import java.util.Arrays;
 
 /**
